@@ -56,7 +56,7 @@
 
 ![](https://cdn.jsdelivr.net/gh/ReaJason/17wanxiaoCheckin-Actions/Pictures/合成3.png)
 
-#### 3、开始抓包
+#### 3、开始抓包   
 
 - 打开完美校园app（显示root忽略即可），进入健康打卡并设置相关信息（不提交）
 - 切换到httpcanary，开启抓包（点右下角的小飞机）
